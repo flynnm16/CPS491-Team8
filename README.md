@@ -1,1 +1,3 @@
-# CPS491-Team8
+# Capstone Project - Point of Sale System
+## Overview
+- We are three University of Dayton senior Computer Science students working on our final Capstone project. We are creating a Point of Sale System for a restaurant. We are going to create our project to look similar to the software Toast. Our goal is for our client restaurant to be able to take orders, track orders, and make payments as seamlessly as possible.
